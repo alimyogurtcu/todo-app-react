@@ -105,7 +105,7 @@ export default class TodoApp extends React.Component {
         }
             return (
                 <div className='container my-5'>
-                    <div className="card">
+                    <div className="card shadow-lg p-3 mb-5 rounded">
                         <div className="card-header text-center">
                             <Header title={app.title}/>
                         </div>
