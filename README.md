@@ -1,6 +1,6 @@
 # todo-app-react
 
-# alimyogurtcu.github.io/react-todo-app
+# https://alimyogurtcu.github.io/projects/todo-app/
 A simple todo application.
 
 ![todo-app](https://user-images.githubusercontent.com/50144617/145258973-59300509-6077-41a6-b321-5fc9f644114e.png)
